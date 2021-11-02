@@ -151,3 +151,7 @@
 2. 选择打包好的插件，进行上传，等待审核结果。一般需要2-3个工作日出结果。如果成功了，别人就可以在线搜索咱们开发的插件了。
 
    ![img](https://gitee.com/wuyilong/picture-bed/raw/master//img/1717cdd171e88cf9~tplv-t2oaga2asx-watermark.awebp)
+
+## 问题
+
+- 本地调试弹出idea配置界面导致无法正常调试。
